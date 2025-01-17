@@ -1,0 +1,7 @@
+git clone https://github.com/donjuulsko/ProjetGit.git
+
+git checkout html
+git checkout -b CSS
+git add css/style.css
+git commit -m "ajout du fichier css"
+git push origin css
