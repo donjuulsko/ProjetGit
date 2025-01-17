@@ -1,3 +1,4 @@
+Pseudo Github : donjuulsko
 git clone https://github.com/donjuulsko/ProjetGit.git
 git config --global user.email "julien.ahouansou@efrei.net"
 git config --global user.name "donjuulsko"
