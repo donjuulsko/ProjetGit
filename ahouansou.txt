@@ -7,6 +7,6 @@ git add html/index.html
 git commit -m "création de la page d'accueuil"
 git push origin html
 
-git add ahouansou.txt
-git commit -m "ajout du fichier txt"
+git add images/img1.jpg
+git commit -m "ajout des images"
 git push origin main
