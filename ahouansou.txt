@@ -1,0 +1,12 @@
+git clone https://github.com/donjuulsko/ProjetGit.git
+git config --global user.email "julien.ahouansou@efrei.net"
+git config --global user.name "donjuulsko"
+git add html/index.html
+git checkout -b html
+git add html/index.html
+git commit -m "création de la page d'accueuil"
+git push origin html
+
+git add ahouansou.txt
+git commit -m "ajout du fichier txt"
+git push origin main
